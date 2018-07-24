@@ -1,0 +1,14 @@
+{
+  "name": "azs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mymodul.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "myazs",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^1.2.0"
+  }
+}
